@@ -1,5 +1,5 @@
 # AmaysimTestSuite
-# MyAmasimTestsuite
+
 
 *****************Amaysim My Settings Test Suite README***************
 
